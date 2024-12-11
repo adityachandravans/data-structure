@@ -1,3 +1,7 @@
+/*name:Aditya Chandravanshi
+class:sy-A
+roll no:106
+batch:s1*/
 #include<stdio.h>
 #include <stdlib.h>
 void insert_at_beggning();
@@ -249,4 +253,238 @@ printf("list is empty\n");
         }
         printf("\n");
  }
- 
+ /*1.insert at beg
+2.insert at end 
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+1
+enter the element:55
+1.insert at beg
+2.insert at end 
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+1
+enter the element:55
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+2
+enter the element you want to insert: 44
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+3
+enter the position :2 
+enter the element you want to insert :87
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+1
+enter the element:66
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+4
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+5
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+6
+enter the position:2
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+7  
+enter the element which you want to search:87
+element not found
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+7
+enter the element which you want to search:66
+element not found
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+8 
+head is 00CD2F50
+55      00CD2F50        00000000        00CD2F38
+55      00CD2F38        00CD2F50        00000000
+
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+1
+enter the element:44
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+4
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+7
+enter the element which you want to search:44
+element not found
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+1
+enter the element:44
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+5
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+7
+enter the element which you want to search:44
+element is found
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+8
+head is 00CD0D40
+44      00CD0D40        00000000        00CD2F50
+55      00CD2F50        00CD0D40        00000000
+
+1.insert at beg
+2.insert at end
+3.insert at given position
+4.delete from beg
+5.delete from end
+6.delete from given position
+7.search
+8.display
+9.exit
+enter the choice
+9
+exiting the program.....*/
